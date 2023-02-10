@@ -1,2 +1,3 @@
 # afriede.github.io
-Personal Website
+
+Auf dieser Webseite möchte ich meine Projekte veröffentlichen.
