@@ -1,0 +1,19 @@
+:root {
+  --main-bg-color: var(--main-bg-color);
+  --main-text-color: var(--main-text-color);
+  --accent-color-1: var(--accent-color);
+  --accent-color-2: var(--accent-color);
+}
+
+.theme-1 body {
+  --main-bg-color: #1a1a2e;
+  --accent-color-1: #e94560;
+  --accent-color-2: #45e96e;
+  --main-text-color: #ffffff;
+}
+
+.theme-black body {
+  --main-bg-color: #0d1117;
+  --accent-color: #7ee787;
+  --main-text-color: #ffffff;
+}
