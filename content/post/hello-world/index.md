@@ -5,8 +5,8 @@ description: "Mein erster Blog Post"
 author: "Aaron Friedenberg"
 date: 2023-08-14T10:45:03+02:00
 
-tags: []
-categories: ["test"]
+tags: ["tag1", "tag2", "tag3", "tag4"]
+categories: ["test1", "test2", "test3", "test4"]
 
 links:
   - title: Google
@@ -31,7 +31,7 @@ dies ist mein erster blog post
 
 ## Hallo2
 
-### code
+### code 2
 
 ```python
   def main():

@@ -12,4 +12,4 @@ menu:
             icon: user
 ---
 
-Ich bin Aaron und Studiere Informatik
+Ich bin Aaron und studiere Informatik
